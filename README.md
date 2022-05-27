@@ -16,5 +16,6 @@ This is an website made using html,css and javascript
 
 #Screenshot of Desktop
 
-![Screenshot](SS1.jpg)
-![Screenshot](SS2.jpg)
+![Screenshot](/images/SS1jpg)
+
+![Screenshot](/images/SS2jpg)
