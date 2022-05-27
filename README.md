@@ -19,3 +19,9 @@ This is an website made using html,css and javascript
 ![Screenshot](/images/SS1.jpg)
 
 ![Screenshot](/images/SS2.jpg)
+
+#Screenshot of Mobile
+
+![Screenshot](/images/SS3.jpg)
+
+![Screenshot](/images/ss4.jpg)
