@@ -13,3 +13,8 @@ This is an website made using html,css and javascript
 
 #Music:  
 	This folder contains songs.
+
+#Screenshot of Desktop
+
+![Screenshot](/SS1.jpg)
+![Screenshot](/SS2.jpg)
